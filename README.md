@@ -67,7 +67,3 @@ The test set's **73% accuracy** surpassed the average performance of six thoraci
 - **Deep Learning**: Explore CNNs for feature extraction and classification.  
 - **Personalized Decision Tools**: Enhance decision-support tools for tailored patient management.  
 
----
-
-## Contributions  
-Feel free to contribute by refining the models, adding new feature selection methods, or expanding the dataset analysis. Submit issues or pull requests for discussion.  
