@@ -10,7 +10,6 @@ This dataset accompanies the manuscript:
 *"Radiomics-Based Decision Support Tool Assists Radiologists in Small Lung Nodule Classification and Improves Lung Cancer Early Diagnosis."*  
 
 - **Dataset Link**: [Small Lung Nodule Dataset](https://www.kaggle.com/datasets/yasserhessein/small-lung-nodule-lung-cancer-dataset)  
-- **Last Updated**: A month ago (Version 2)  
 
 The dataset includes **990 nodules from 810 patients**, annotated with features extracted from multi-region CT segmentations using **TexLab2.0**. It introduces a predictive radiomics model, **Small Nodule Radiomics Predictive Vector (SN-RPV)**, developed through LASSO regression for nodule classification.  
 
